@@ -1,0 +1,1 @@
+{"version":2,"name":"node-dollar-sign-url-test","builds":[{"src":"**/*.js","use":"@now/node"}]}
